@@ -9,10 +9,12 @@ theme:
   palette:
     primary: orange
     accent: red
+  features:
+    - navigation.instant
    
 repo_url: https://github.com/ThomasBeckman/test
 
 site_url: https://ThomasBeckmann.io/test/
 
-site_nav:
+nav:
     - TesNav: 'index.md'
