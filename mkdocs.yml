@@ -1,5 +1,5 @@
 site_name: Moodle-Kurse
-repo_url: https://github.com/ThomasBeckmann/moodle-kurse/
+repo_url: https://github.com/ThomasBeckmann/test/
 
 plugins:
   - include-markdown
