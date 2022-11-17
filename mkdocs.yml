@@ -1,13 +1,9 @@
 site_name: Moodle-Kurse
-repo_url: https://github.com/ThomasBeckmann/test/
+
 
 plugins:
   - include-markdown
    
-repo_url: https://github.com/ThomasBeckman/test
-
-site_url: https://ThomasBeckmann.io/test/
-
 nav:
 - Home: index.md
-- About: Lernsituation1.md
+- About: Lernsituation01.md
