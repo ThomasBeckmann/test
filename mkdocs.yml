@@ -14,5 +14,5 @@ repo_url: https://github.com/ThomasBeckman/test
 
 site_url: https://ThomasBeckmann.io/test/
 
-nav:
+site_nav:
     - TesNav: 'index.md'
