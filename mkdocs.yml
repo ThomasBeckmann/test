@@ -3,14 +3,6 @@ repo_url: https://github.com/ThomasBeckmann/test/
 
 plugins:
   - include-markdown
-
-theme:
-  name: material
-  palette:
-    primary: orange
-    accent: red
-  features:
-    - navigation.instant
    
 repo_url: https://github.com/ThomasBeckman/test
 
