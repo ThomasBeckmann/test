@@ -9,4 +9,5 @@ repo_url: https://github.com/ThomasBeckman/test
 site_url: https://ThomasBeckmann.io/test/
 
 nav:
-    - TesNav: 'index.md'
+- Home: index.md
+- About: Lernsituation1.md
