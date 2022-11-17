@@ -6,8 +6,3 @@ In der Abteilung “Vernetzung” bei der SolSys GmbH werden Sie von dem Mitarbe
 
 <!--include-end--> 
 
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}

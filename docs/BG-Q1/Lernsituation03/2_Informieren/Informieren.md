@@ -7,8 +7,3 @@ Die nachfolgenden Informationen und Dokumente bekommen Sie durch Ihren Abteilung
 
 <!--include-end-->
 
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}
