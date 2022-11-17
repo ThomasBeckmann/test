@@ -1,9 +1,0 @@
-site_name: Moodle-Kurse
-
-
-plugins:
-  - include-markdown
-   
-nav:
-- Home: index.md
-- About: Lernsituation01.md
