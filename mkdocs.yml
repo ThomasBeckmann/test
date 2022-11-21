@@ -15,12 +15,7 @@ plugins:
 
 use_directory_urls: false
 
-nav:
-    - Einleitung zum LF2: 'hallo.md'
-    - Kapitel 00 - Organisatorisches: 'hallo.md'
-    - Kapitel 01 - Propädeutikum: 'hallo.md'
-    - Kapitel 02 - IT-Systeme auswählen: 'hallo.md'
-    - Kapitel 03 - Netzwerkspeicher dimensionieren: 'hallo.md'
-    - Kapitel 04 - IT-Systeme in Betrieb nehmen: 'hallo.md'
-    - Kapitel 05 - Sensoren auslesen: 'hallo.md'
-    - Kapitel 06 - Aktoren ansteuern: 'hallo.md'
+pages:
+- Willkommen: 'index.md'
+- Berufliches Gymnasium: 'hallo.md'
+
