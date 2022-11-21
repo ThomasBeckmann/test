@@ -4,9 +4,4 @@
 Zur Abgrenzung und Abschätzung Ihres Auftrages werden Sie vom Kunden detailliertere Informationen erhalten, auf denen Sie eine Planung basieren lassen können. Wichtig ist an dieser Stelle, die Anforderungen exakt herauszuarbeiten und zu verifizieren. ("Auftragnehmer und -geber haben den gleichen Blick auf das Lagerfeuer")*
 
 <!--include-end-->
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}
 
