@@ -15,9 +15,3 @@
 **Laden Sie anschließend die Präsentation bei (1) Präsentation Grundlagen hoch.**
 
 <!--include-end-->
-
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}

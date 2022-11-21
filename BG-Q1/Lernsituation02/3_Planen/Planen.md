@@ -7,9 +7,4 @@ Sie sollten im Vorfeld der Website-Erstellung ein Storyboard erstellen. Ihr Abte
 Hilfreiche Informationen finden Sie auch <a href="https://blogsheet.info/das-storyboard-bestandteil-der-planung-eines-webauftritts-3250" target="_blank">HIER.</a>
 
 <!--include-end-->
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}
 

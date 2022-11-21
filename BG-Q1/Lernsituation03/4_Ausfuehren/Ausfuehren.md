@@ -10,11 +10,5 @@
 
 <!--include-end-->
 
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}
-
 
 
