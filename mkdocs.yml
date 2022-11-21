@@ -1,7 +1,7 @@
 site_name: Moodle-Kurse
 site_url: https://ThomasBeckmann.github.io/test/
 nav:
-    - Einleitung zum LF7: 'index.md'
+    - Einleitung zum LF7: 'hallo.md'
 
 
 theme: 
