@@ -1,15 +1,20 @@
-site_name: WordPressPCL
+site_name: Moodle-Kurse
 site_url: https://ThomasBeckmann.github.io/test/
 nav:
     - Home: index.md
-    - Version 2.x:
-        - Getting Started: v2/getting-started.md
-        - Types:
-            - Comments: v2/types/comments.md
+    - Berufliches Gymnasium:
+        - BG-Q1: docs/BG-Q1/Lernsituation01/Lernsituation01.md
+
     - Version 1.x:
         - Types:
             - Comments: v1/types/comments.md
             - Posts: v1/types/posts.md
 
 
-theme: readthedocs
+theme: 
+    name: readthedocs
+    locale: de
+    include_homepage_in_sidebar: ture
+    
+    
+
