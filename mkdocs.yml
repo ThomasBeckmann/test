@@ -1,13 +1,26 @@
-site_name: Moodle-Kurse
-site_url: https://ThomasBeckmann.github.io/test/
+site_name: Moodle Kurse
+
+theme:
+  name: material
+  language: de
+  font: false
+
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+
+plugins:
+  - include-markdown
+
+use_directory_urls: false
+
 nav:
-    - Einleitung zum LF7: 'hallo.md'
-
-
-theme: 
-    name: readthedocs
-    locale: de
-    include_homepage_in_sidebar: ture
-    
-    
-
+    - Einleitung zum LF2: 'hallo.md'
+    - Kapitel 00 - Organisatorisches: 'hallo.md'
+    - Kapitel 01 - Propädeutikum: 'hallo.md'
+    - Kapitel 02 - IT-Systeme auswählen: 'hallo.md'
+    - Kapitel 03 - Netzwerkspeicher dimensionieren: 'hallo.md'
+    - Kapitel 04 - IT-Systeme in Betrieb nehmen: 'hallo.md'
+    - Kapitel 05 - Sensoren auslesen: 'hallo.md'
+    - Kapitel 06 - Aktoren ansteuern: 'hallo.md'
