@@ -1,14 +1,7 @@
 site_name: Moodle-Kurse
 site_url: https://ThomasBeckmann.github.io/test/
 nav:
-    - Home: index.md
-    - Berufliches Gymnasium:
-        - BG-Q1: docs/BG-Q1/Lernsituation01/Lernsituation01.md
-
-    - Version 1.x:
-        - Types:
-            - Comments: v1/types/comments.md
-            - Posts: v1/types/posts.md
+    - Einleitung zum LF7: 'index.md'
 
 
 theme: 
