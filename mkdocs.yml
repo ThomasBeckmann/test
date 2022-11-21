@@ -20,3 +20,4 @@ pages:
 - Berufliches Gymnasium: 'Hinweise.md'
 - Weiteres: 'hallo.md'
 
+site_dir: 'site'
