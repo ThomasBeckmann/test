@@ -17,5 +17,6 @@ use_directory_urls: false
 
 pages:
 - Willkommen: 'index.md'
-- Berufliches Gymnasium: 'hallo.md'
+- Berufliches Gymnasium: 'Hinweise.md'
+- Weiteres: 'hallo.md'
 
