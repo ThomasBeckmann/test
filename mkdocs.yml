@@ -1,0 +1,12 @@
+site_name: Moodle-Kurse
+repo_url: https://github.com/ThomasBeckmann/moodle-kurse/
+
+plugins:
+  - include-markdown
+
+theme:
+  name: material
+  palette:
+    primary: orange
+    accent: red
+   
